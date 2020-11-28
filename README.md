@@ -1,1 +1,1 @@
-Simple project created to test the various React hooks available. 
+Simple project created to test the various available React hooks. 
